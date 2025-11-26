@@ -20,7 +20,7 @@
 
 # live-site
 
-https://sveena25.github.io/Weather-App/
+https://sveena25.github.io/True-Weather/
 
 # Introduction
 
